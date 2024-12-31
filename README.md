@@ -26,5 +26,5 @@ Hepatic vessels in computed tomography scans often suffer from image fragmentati
 <div align="center">
 <img src="Comparison.png" width="95%">
 
-The core algorithm framework of SegKAN, illustrates the 3D image slices and encoding of 3D patches, as well as the learning of spatial relationships between 3D patches. The unique elongated structure of Hepatic blood vessels is highlighted in the top-left corner. The bottom-right image shows the impact of different split quantities on the model's segmentation results. The model performs best when the split quantity reaches 16, indicating that an appropriate number of splits can significantly improve segmentation performance in the SegKAN model.
+Comparison of Tumor and Vessel Segmentation Results Across Different Models.
 </div>
