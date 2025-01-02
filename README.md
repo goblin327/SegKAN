@@ -7,7 +7,7 @@ This is the code repository for the paper:
 >
 > \*Corresponding author \**Project lead
 > 
-> **[[arXiv]](https://arxiv.org/html/2412.19990v1)**
+> **[[arXiv]](https://arxiv.org/abs/2412.19990)**
 
 ![](./main.jpg)
 
