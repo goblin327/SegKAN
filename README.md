@@ -3,7 +3,7 @@
 This is the code repository for the paper:
 > **SegKAN: High-Resolution Medical Image Segmentation with Long-Distance Dependencies**
 >
-> [Shengbo Tan](https://github.com/goblin327), [Rundong Xue](https://github.com/Yizhao-dong), Shipeng Luo, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\**, Xinran Wang, Lei Zhang, Daji Ergu, Zhang Yi, [Yang Zhao]() and Ying Cai\*
+> [Shengbo Tan](https://github.com/goblin327), [Rundong Xue](https://github.com/Yizhao-dong), Shipeng Luo, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\**, Xinran Wang, Lei Zhang, Daji Ergu, Zhang Yi, [Yang Zhao](https://yangyangkiki.github.io/) and [Ying Cai](https://ieeexplore.ieee.org/author/37087137422)\*
 >
 > \*Corresponding author \**Project lead
 > 
