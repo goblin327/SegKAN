@@ -13,10 +13,10 @@ This is the code repository for the paper:
 
 If you use any content of this repo for your work, please cite the following our paper:
 ```
-@article{***,
+@article{tan2024segkan,
   title={SegKAN: High-Resolution Medical Image Segmentation with Long-Distance Dependencies},
-  author={***},
-  journal={***},
+  author={Tan, Shengbo and Xue, Rundong and Luo, Shipeng and Zhang, Zeyu and Wang, Xinran and Zhang, Lei and Ergu, Daji and Yi, Zhang and Zhao, Yang and Cai, Ying},
+  journal={arXiv preprint arXiv:2412.19990},
   year={2024}
 }
 ```
