@@ -11,6 +11,8 @@ This is the code repository for the paper:
 
 ![](./main.jpg)
 
+## Citation
+
 If you use any content of this repo for your work, please cite the following our paper:
 ```
 @article{tan2024segkan,
